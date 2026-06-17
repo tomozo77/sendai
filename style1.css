@@ -14,11 +14,10 @@ body{
 
 @font-face {font-display: swap;
   font-family: 'icomoon';
-  src:  url('/fonts/icomoon.eot?v01');
-  src:  url('/fonts/icomoon.eot?v01#iefix') format('embedded-opentype'),
-    url('/fonts/icomoon.ttf?v01') format('truetype'),
-    url('/fonts/icomoon.woff?v01') format('woff'),
-    url('/fonts/icomoon.svg?v01#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?v01#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?v01') format('truetype'),
+    url('fonts/icomoon.woff?v01') format('woff'),
+    url('fonts/icomoon.svg?v01#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
