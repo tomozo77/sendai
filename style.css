@@ -1,0 +1,20 @@
+@charset "utf-8";
+a:link{ text-decoration:underline; }
+a:visited{ text-decoration:underline; }
+a:active{ text-decoration:underline; color:#FF6699; }
+a:hover{ text-decoration:underline; color:#FF6699; }
+body{ font-size:13px; color:#000000; margin-left:4%; margin-right:4%; }
+tr,td{ color:#000000;}
+hr{ color:#808080; }
+
+#mid{ font-size:13pt; }
+#small{ font-size:12pt; }
+#kanri{ color:#009933; } /* 管理人コメントの色 */
+#log{ width:630; border-style:solid; border-color:#9999CC; }
+#log-0{ background-color:#FFCC66; } /* ランキング順位 */
+#log-1{ background-color:#CCCCFF; } /* タイトル */
+#log-2{ background-color:#FFCCFF; } /* カテゴリ */
+#log-3{ background-color:#FFFFFF; } /* 紹介文 */
+#log-4{ background-color:#FFFFFF; } /* 管理人コメント */
+#title-bar{ background-color:#c1d5e8; color:#000000; font-size:12pt; } /* タイトルバー */
+#mid-bar{ background-color:#e3e3e3; } /* 中段バー */
